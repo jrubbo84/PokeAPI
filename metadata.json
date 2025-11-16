@@ -1,0 +1,5 @@
+{
+  "name": "Pokédex Pipefy",
+  "description": "Uma aplicação para buscar, filtrar e ordenar Pokémon da PokeAPI, permitindo que os usuários explorem Pokémon por intervalo de ID, tipo, peso, altura e experiência base.",
+  "requestFramePermissions": []
+}
